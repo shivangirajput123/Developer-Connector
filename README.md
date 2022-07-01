@@ -1,4 +1,4 @@
-# DevConnector
+# Developer Connector
 - A Social network for developers, built on the MERN stack
 - Functionalities of the app:
     - Signup or login into DevConnector
